@@ -3,7 +3,7 @@ import ReactDOM  from "react-dom/client";
 import './tailwind.css'
 import {  createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from "./pages/Home";
-import Thamaen from "./pages/thamaen";
+import Thamaen from "./pages/Thamaen";
 import Phuphaman from "./pages/Phuphaman";
 import Thafhang from "./pages/Thafhang";
 import Thamkonglo from "./pages/Thamkonglo"
